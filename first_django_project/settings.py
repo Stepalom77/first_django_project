@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'playground',
 ]
 
 MIDDLEWARE = [
@@ -49,6 +50,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'first_django_project.urls'
+
 
 TEMPLATES = [
     {
